@@ -3,16 +3,15 @@
 
 1. *In your own words*, discuss what each String method does:
   * `.substring(a)`
-    * **YOUR WRITING HERE**
-
+   takes a part of string from given number to the end
   * `.substring(a, b)`
-    * **YOUR WRITING HERE**
+   takes part of string from given number to second given number
 
   * `.indexOf(str)`
-    * **YOUR WRITING HERE**
+shows the index of string within a string like "a" in "apple"
 
   * `.equals(str)`
-    * **YOUR WRITING HERE**
+    comapres two strings
 
 
 2. *In your own words*, discuss what the following `for` loop accomplishes for `String s`:
@@ -21,4 +20,4 @@ for(int i = 0; i < s.length(); i++) {
       // DO STUFF
 }
 ```
-  * **YOUR WRITING HERE**
+  
