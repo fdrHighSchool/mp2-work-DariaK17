@@ -19,5 +19,5 @@ shows the index of string within a string like "a" in "apple"
 for(int i = 0; i < s.length(); i++) {
       // DO STUFF
 }
-```
+the loop will go on for how long the string is. Example: String s = "apple" then loop will reapeat 4 times
   
