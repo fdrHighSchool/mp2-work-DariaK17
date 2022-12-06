@@ -32,7 +32,7 @@
   public static void main(String[] args) {
     for(int i = 5; i > 0; i=i-1) {
       for(int j = 9; j >= 0; j=j-1) {
-        for(int k = 5; k > 0; k=k-1) {
+        for(int t = 5; t > 0; t=t-1) {
             System.out.print(j);
         }
     }
